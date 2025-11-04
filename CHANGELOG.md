@@ -5,6 +5,14 @@ All notable changes to markdown-plus.nvim will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.7.1](https://github.com/YousefHadder/markdown-plus.nvim/compare/v1.7.0...v1.7.1) (2025-11-04)
+
+
+### Bug Fixes
+
+* **list:** continue lists when enter is pressed on indented continuation lines ([7d0d052](https://github.com/YousefHadder/markdown-plus.nvim/commit/7d0d05212aeb6a012fc0ae346f39c076ed11a957))
+* **list:** continue lists when Enter is pressed on indented continuation lines ([90a3adc](https://github.com/YousefHadder/markdown-plus.nvim/commit/90a3adc29ba77cc20ca0daeb39941b88135ed077))
+
 ## [1.7.0](https://github.com/YousefHadder/markdown-plus.nvim/compare/v1.6.0...v1.7.0) (2025-11-04)
 
 
